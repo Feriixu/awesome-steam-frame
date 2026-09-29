@@ -29,6 +29,7 @@ A curated list of steam frame compatible software
 ## Guides & Scripts
 
 - [Post About Initial Problems](https://www.reddit.com/r/SteamFrame/comments/1wsgihj/how_i_solved_all_my_problems_with_my_frame/) - A liked post on reddit describing on most common problems after the initial release.
+- [Valve TroubleShooting Script](https://github.com/ValveSoftware/SteamVR-for-Linux/blob/master/frame-dongle-troubleshoot.sh) - A very quickly-written script to try to track down and spot the most-commonly-seen problems with using the Steam Frame wireless dongle on Linux.
 
 ------------------
 
