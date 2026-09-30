@@ -1,5 +1,5 @@
 # Awesome Steam Frame
-A curated list of steam frame compatible software
+A curated list of steam frame compatible software/hardware
 
 
 ## Table of contents
