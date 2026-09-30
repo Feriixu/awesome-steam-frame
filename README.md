@@ -29,6 +29,7 @@ A curated list of steam frame compatible software
 - [Steam Frame App](https://streamframe.app/) - The missing streaming and recording utility for Steam Frame.
 - [FrameTop](https://github.com/DeeJanuz/frametop) - Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR).
 - [Frame Passthrough Shortcuts](https://vrdev.net/projects/frame-passthrough-shortcuts) - Change Steam Frame passthrough modes from your controllers.
+- [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
 
 --------------------
 
@@ -46,6 +47,7 @@ A curated list of steam frame compatible software
 - [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N?lv=shuf&channelId=500&plpRedirect=mhFallback) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame.
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY?lv=shuf&channelId=500&plpRedirect=mhFallback) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
 - [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
+- [Frame Workshop](https://github.com/Nieko27/Frame-Workshop) - A repo for all things steam frame hardware.
 
 ------------------
 
