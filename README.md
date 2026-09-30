@@ -27,6 +27,7 @@ A curated list of steam frame compatible software
 - [Frame Mic Tuner](https://github.com/sasaken1102r/frame-mic-tuner) - SteamVR dashboard panel to switch the Steam Frame mic's echo cancellation and noise suppression (unofficial).
 - [Frame Perf Overlay](https://github.com/sasaken1102r/frame-perf-overlay) - Performance overlay for Steam Frame: fps, CPU/GPU, temperatures, power, battery and Steam Link link in SteamVR (unofficial) / Steam Frame.
 - [Steam Frame App](https://streamframe.app/) - The missing streaming and recording utility for Steam Frame.
+- [FrameTop](https://github.com/DeeJanuz/frametop) - Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR).
 
 --------------------
 
