@@ -23,6 +23,10 @@ A curated list of steam frame compatible software
 
 - [Frame Developer Tools](https://gitlab.steamos.cloud/frame-public/frame-developer-tools) - Various developer-related tools and test programs.
 - [Steam Frame Hub](https://verified.steamframehub.com/) - An independent publication and community dedicated to Valve’s Steam Frame.
+- [frameeyeosc](https://github.com/konsti219/frameeyeosc) - Transmitting Steam Frame Eye Trackign Data via OSC.
+- [Frame Mic Tuner](https://github.com/sasaken1102r/frame-mic-tuner) - SteamVR dashboard panel to switch the Steam Frame mic's echo cancellation and noise suppression (unofficial).
+- [Frame Perf Overlay](https://github.com/sasaken1102r/frame-perf-overlay) - Performance overlay for Steam Frame: fps, CPU/GPU, temperatures, power, battery and Steam Link link in SteamVR (unofficial) / Steam Frame.
+- [Steam Frame App](https://streamframe.app/) - The missing streaming and recording utility for Steam Frame.
 
 --------------------
 
@@ -39,6 +43,7 @@ A curated list of steam frame compatible software
 - [Zenni Prescription Lenses](https://www.zennioptical.com/p/steamframe-vr-prescription-insert/VR80004/VR8000401?srsltid=AU7gw4XJCnPWFW0JNpvOtIojc-xYr35z-MMNVu4ANL4T22Dqjia7ZmYk) - VR Prescription Lenses for Valve Steam Frame.
 - [Spigen Controller Grips](https://www.amazon.com/dp/B0GV1LQT9N?lv=shuf&channelId=500&plpRedirect=mhFallback) - Padded Comfort Strap, Adjustable Size, Non-Slip Dotted Grip, Silicone Fit for Steam Frame.
 - [Fossmon VR Headset Stand](https://www.amazon.com/dp/B0HFQLHDDY?lv=shuf&channelId=500&plpRedirect=mhFallback) - Universal headset stand compatible with Meta Quest 3 3S 2, Vision Pro, Valve Index and Steam Frame.
+- [PD100 Mount](https://github.com/DeeJanuz/steam-frame-pd100-mount) - 3D-printable mounts that carry a BoboVR PD100 battery above or below the Valve Steam Frame's rear battery pod.
 
 ------------------
 
